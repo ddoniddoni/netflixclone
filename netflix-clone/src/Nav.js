@@ -17,7 +17,7 @@ export const Nav = () => {
     <div className={`nav ${show && "nav__black"}`}>
       <img
         className="nav__logo"
-        src="https://w.namu.la/s/e73d00d283513f086ecee75aa1edfef3449d97bccceda03ba0d9c240d28545645902a68011c5c2a3716044813aa5ff58326efd747daa413aea3de07c3ec21dbb06efbec6df03cc4815978c9ae6c43d237f6735c974798333f5a89cd366f9781e"
+        src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73774b40-1708-43c9-b667-fd7c2d6bd8de/das00oc-54f2f5c7-2049-4294-b234-4808cb4f05b6.png/v1/fill/w_512,h_512,strp/netflix_honeycomb_icon_by_roxor470_das00oc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC83Mzc3NGI0MC0xNzA4LTQzYzktYjY2Ny1mZDdjMmQ2YmQ4ZGVcL2RhczAwb2MtNTRmMmY1YzctMjA0OS00Mjk0LWIyMzQtNDgwOGNiNGYwNWI2LnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1zjczmQvFQ_7pIY1eSGe6Xl_4084cEM8uG5YbVhorfU"
         alt="Netflix Logo"
       />
       <img
